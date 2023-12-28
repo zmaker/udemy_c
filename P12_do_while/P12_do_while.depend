@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703761643 source:c:\users\paolo\desktop\github\udemy_c\p12_do_while\main.c
+	<stdio.h>
+	<stdlib.h>
+
