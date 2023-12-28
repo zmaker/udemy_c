@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703681054 source:c:\users\paolo\desktop\github\udemy_c\p11_while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
