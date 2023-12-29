@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703848530 source:c:\users\paolo\desktop\github\udemy_c\p21_argc_argv\main.c
+	<stdio.h>
+	<stdlib.h>
+

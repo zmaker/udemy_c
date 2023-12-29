@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703852764 source:c:\users\paolo\desktop\github\udemy_c\p24_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

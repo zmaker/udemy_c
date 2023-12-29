@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703846487 source:c:\users\paolo\desktop\github\udemy_c\p20_fun_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
