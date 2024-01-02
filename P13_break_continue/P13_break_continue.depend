@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704190524 source:c:\users\paolo\desktop\github\udemy_c\p13_break_continue\main.c
+	<stdio.h>
+	<stdlib.h>
+
