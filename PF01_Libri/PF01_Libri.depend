@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1704371672 source:c:\users\paolo\desktop\github\udemy_c\pf01_libri\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_fun.h"
+
+1704371667 c:\users\paolo\desktop\github\udemy_c\pf01_libri\my_fun.h
+
+1704371140 source:c:\users\paolo\desktop\github\udemy_c\pf01_libri\my_fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"my_fun.h"
+
